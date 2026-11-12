@@ -1,150 +1,102 @@
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/concat-mark-dark.png" alt="Concat" width="100" />
-</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/concat-mark-dark.png" alt="Concat" width="100" /> </p> <h1 align="center">Concat</h1> <h3 align="center">O editor de vídeo gratuito, de código aberto e multiplataforma.</h3> <div align="center"> <img src="https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/editor.png" alt="Editor do Concat" width="100%" /> <p align="center"> <a href="https://github.com/jub0t/Concat/releases"><img src="https://img.shields.io/github/downloads/jub0t/concat/total?style=flat&logo=github&logoColor=F8F8F8&label=Downloads&labelColor=212123&color=0568FD" alt="Total de downloads" /></a> <a href="https://github.com/jub0t/Concat/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/jub0t/Concat/ci.yml?style=flat&logo=githubactions&logoColor=F8F8F8&label=Build&labelColor=000000" alt="Status da build" /></a> <a href="https://github.com/jub0t/Concat/releases"><img src="https://img.shields.io/badge/Version-0.2.10-0568FD?style=flat&logo=semver&logoColor=F8F8F8&labelColor=212123" alt="Concat versão 0.2.10" /></a> <a href="https://discord.gg/DVuPfpXfqP"><img src="https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=flat&logo=discord&logoColor=F8F8F8&labelColor=000000" alt="Entre no Discord do Concat" /></a> <a href="https://github.com/jub0t/Concat/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-AGPL%20v3-0568FD?style=flat&logo=gnu&logoColor=F8F8F8&labelColor=212123" alt="Licença: AGPL-3.0-or-later" /></a> </p> <p align="center"> <a href="https://www.star-history.com/jub0t/concat"><img src="https://api.star-history.com/badge?repo=jub0t/concat&type=rank" alt="Ranking no Star History" height="62" /></a> <a href="https://concat.standalones.org/#download"><img src="https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/download_button.svg" alt="Baixar o Concat" width="251" /></a> <a href="https://trendshift.io/repositories/191379?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-191379" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/191379" alt="jub0t%2FConcat | Trendshift" width="250" height="55"/></a> </p>
 
-<h1 align="center">Concat</h1>
-<h3 align="center">The free, open-source, cross-platform video editor.</h3>
+Outros idiomas: 🇬🇧 English (original) · 🇧🇷 Português (Brasil) — versão oficial do projeto · 🇪🇸 Español · 🇫🇷 Français · 🇩🇪 Deutsch · 🇮🇹 Italiano
 
-<div align="center">
+Patrocinadores Pagos
+<table width="100%"> <tr> <td align="center"> <a href="https://proxyon.io/?ref=concat"><img src="https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/proxyon_sponsor_logo.png" alt="Proxyon" width="80" /></a><br /> <a href="https://proxyon.io/?ref=concat"><b>Proxyon</b></a><br /> <sub>Proxies pay-as-you-go para desenvolvedores<br />Use o código <code>JUB0T</code> para 20% de desconto</sub> </td> <td align="center"> <a href="mailto:jub0trd@gmail.com"><b>Entre em contato para anunciar</b></a><br /> <sub>Coloque seu produto na frente de quem edita com o Concat.<br /><a href="mailto:jub0trd@gmail.com">jub0trd@gmail.com</a></sub> </td> </tr> </table> </div>
+Sobre
 
-<img src="https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/editor.png" alt="Concat editor" width="100%" />
+O Concat é um editor de vídeo gratuito e de código aberto para macOS, Windows, Linux e Android. Ele cobre o que a maioria das edições precisa: legendas automáticas, texto para fala, remoção de fundo, animação por keyframes, efeitos e títulos, corte em várias faixas e exportação em 4K. Sem pegadinhas: sem marca d'água, sem conta, sem assinatura, sem upload.
 
-<p align="center">
-  <a href="https://github.com/jub0t/Concat/releases"><img src="https://img.shields.io/github/downloads/jub0t/concat/total?style=flat&logo=github&logoColor=F8F8F8&label=Downloads&labelColor=212123&color=0568FD" alt="Total Downloads" /></a>
-  <a href="https://github.com/jub0t/Concat/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/jub0t/Concat/ci.yml?style=flat&logo=githubactions&logoColor=F8F8F8&label=Build&labelColor=000000" alt="Build Status" /></a>
-  <a href="https://github.com/jub0t/Concat/releases"><img src="https://img.shields.io/badge/Version-0.2.10-0568FD?style=flat&logo=semver&logoColor=F8F8F8&labelColor=212123" alt="Concat Version 0.2.10" /></a>
-  <a href="https://discord.gg/DVuPfpXfqP"><img src="https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=flat&logo=discord&logoColor=F8F8F8&labelColor=000000" alt="Join Concat Discord" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL%20v3-0568FD?style=flat&logo=gnu&logoColor=F8F8F8&labelColor=212123" alt="License: AGPL-3.0-or-later" /></a>
-</p>
+Tudo roda na sua máquina. Instale, solte suas filmagens e corte. Os modelos de IA para legendas, vozes e recorte são baixados uma única vez em Configurações e passam a funcionar offline. Suas filmagens nunca saem do seu disco.
 
-<p align="center">
-  <a href="https://www.star-history.com/jub0t/concat"><img src="https://api.star-history.com/badge?repo=jub0t/concat&type=rank" alt="Star History Rank" height="62" /></a>
-  <a href="https://concat.standalones.org/#download"><img src="assets/download_button.svg" alt="Download Concat" width="251" /></a>
-  <a href="https://trendshift.io/repositories/191379?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-191379" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/191379" alt="jub0t%2FConcat | Trendshift" width="250" height="55"/></a>
-</p>
+Bom para: TikTok, Reels e Shorts, vídeos de YouTube, tutoriais e gravações de tela, cortes de podcast, memes.
 
-**🇬🇧 English** · [🇩🇪 Deutsch](docs/README.de.md) · [🇪🇸 Español](docs/README.es.md) · [🇫🇷 Français](docs/README.fr.md) · [🇮🇹 Italiano](docs/README.it.md) · [🇳🇱 Nederlands](docs/README.nl.md) · [🇵🇱 Polski](docs/README.pl.md) · [🇧🇷 Português (Brasil)](docs/README.pt-BR.md) · [🇷🇺 Русский](docs/README.ru.md) · [🇺🇦 Українська](docs/README.uk.md) · [🇹🇷 Türkçe](docs/README.tr.md) · [🇦🇿 Azərbaycanca](docs/README.az.md) · [🇭🇷 Hrvatski](docs/README.hr.md) · [🇮🇩 Bahasa Indonesia](docs/README.id.md) · [🇻🇳 Tiếng Việt](docs/README.vi.md) · [🇹🇭 ไทย](docs/README.th.md) · [🇯🇵 日本語](docs/README.ja.md) · [🇰🇷 한국어](docs/README.ko.md) · [🇨🇳 简体中文](docs/README.zh-Hans.md) · [🇹🇼 繁體中文](docs/README.zh-TW.md) · [🇸🇦 العربية](docs/README.ar.md) · [🇮🇱 עברית](docs/README.he.md) · [🇮🇷 فارسی](docs/README.fa.md) · [🇮🇳 हिन्दी](docs/README.hi.md) · [🇵🇰 اردو](docs/README.ur.md) · [🇧🇩 বাংলা](docs/README.bn.md)
+Também para máquinas: um servidor MCP embutido para agentes de IA (concat --mcp, veja como configurar) e uma API JSON-RPC para scripts, para que eles também possam cortar vídeo com ele.
 
-## Paid Sponsors
+Destaques
+🚫 Sem marca d'água. Sem conta. Sem paywall. Nunca.
+🔒 100% local. Nada é enviado. Funciona offline.
+💬 Legendas automáticas. Geradas na sua máquina. Escolha o tamanho do modelo e receba legendas estilizadas na linha do tempo.
+🗣️ Texto para fala + clonagem de voz. Uma voz local gratuita no desktop, ou qualquer voz a partir de poucos segundos de gravação. Os celulares ganharão sua própria voz de sistema.
+🧍 Remoção de fundo. Pessoas, objetos, ou pinte a máscara você mesmo.
+🎞️ Keyframes. Posição, escala, rotação, opacidade, volume, parâmetros de efeitos. Editor de curvas embutido.
+✨ 100 efeitos, filtros e transições. Ao vivo na pré-visualização.
+✂️ Corte rápido. Dividir, aparar, ripple, mesclar, congelar quadro, velocidade. Linha do tempo magnética, se você quiser.
+🎚️ Multifaixa, multilinha do tempo. Sobreposições e picture-in-picture: empilhe vídeo, imagens e títulos em quantas faixas quiser. Vários cortes em um só projeto. Modos de mesclagem (screen, add, multiply…), recorte, espelhamento.
+📝 Títulos. Fontes, contorno, sombra, placa de fundo. Predefinições para começar.
+🎙️ Limpeza de voz com um clique. Remover ruído, realçar a voz, nivelar o volume. Mais chipmunk, robô, telefone e companhia.
+📤 Exportação. H.264, HEVC, AV1. Até 4K 60, cor de 10 bits.
+⚡ Rápido. Proxies embutidos, então o 4K roda suave ao navegar na linha do tempo.
+🤖 Programável. Um servidor MCP embutido, para que o Claude e outros agentes de IA possam editar com ele (uma linha para configurar), e uma API JSON-RPC para scripts. Uma build a partir do código-fonte adiciona gRPC e uma ferramenta de linha de comando.
+🖥️ macOS, Windows, Linux, Android. 26 idiomas. Mesmo app, mesmos arquivos de projeto.
+Download
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <a href="https://proxyon.io/?ref=concat"><img src="https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/proxyon_sponsor_logo.png" alt="Proxyon" width="80" /></a><br />
-      <a href="https://proxyon.io/?ref=concat"><b>Proxyon</b></a><br />
-      <sub>Pay-as-you-go proxies for developers<br />Use code <code>JUB0T</code> for 20% off</sub>
-    </td>
-      <td align="center">
-      <a href="mailto:jub0trd@gmail.com"><b>Contact to advertise</b></a><br />
-      <sub>Put your product in front of the people who edit with Concat.<br /><a href="mailto:jub0trd@gmail.com">jub0trd@gmail.com</a></sub>
-    </td>
-  </tr>
-</table>
+Duas formas de começar:
 
-</div>
+O site entrega a build certa para a sua máquina. Comece por aqui.
+GitHub Releases tem todas as builds para todas as plataformas, com instaladores, pacotes e checksums. Para quando você quiser escolher.
 
+O Concat está em beta: funciona, mas ainda tem arestas. Avise quando encontrar uma.
 
-## About
+Plataformas
 
-Concat is a free, open-source video editor for macOS, Windows, Linux and Android. It covers what most edits need: auto-captions, text-to-speech, background removal, keyframe animation, effects and titles, multi-track cutting, 4K export. With none of the catches: no watermark, no account, no subscription, no upload.
+✅ Windows · x86_64 (as builds ARM estão pausadas, veja #326). Um instalador (setup) e um .msi. Se o SmartScreen bloquear uma build não assinada: Mais informações › Executar assim mesmo
+✅ macOS · Intel e Apple silicon. Se o macOS se recusar a abrir uma build não assinada: xattr -dr com.apple.quarantine /Applications/Concat.app
+✅ Linux · x86_64 e ARM. .deb, .rpm, .AppImage e um pacote para Arch. Também há um Flatpak no Flatpark, um repositório Flatpak da comunidade que empacota o .deb x86_64 de cada versão e é atualizado junto com ela
+✅ Android · celulares e tablets
+✅ iOS / iPadOS · iPhone e iPad, via sideload
 
-Everything runs on your machine. Install it, drop in footage, cut. The AI models for captions, voices and cutout download once from Settings and work offline after that. Your footage never leaves your disk.
+✅ Suportado · 🚧 Em andamento · 🧪 A testar
 
-**Good for:** TikTok, Reels and Shorts, YouTube videos, tutorials and screen recordings, podcast clips, memes.
+Os requisitos de sistema e os tamanhos opcionais de modelo estão no site.
 
-**Also for machines:** a built-in MCP server for AI agents (`concat --mcp`, [set up](docs/MCP.md)) and a JSON-RPC API for scripts, so they can cut video with it too.
+Política de assinatura de código: por que as builds do Windows ainda não são assinadas e o que o Concat envia pela rede (nada que você não tenha pedido).
 
-## Highlights
+Compilar a partir do código-fonte
 
-- 🚫 **No watermarks. No account. No paywall.** Ever.
-- 🔒 **100% local.** Nothing uploads. Works offline.
-- 💬 **Auto-captions.** Made on your machine. Pick a model size, get styled captions on the timeline.
-- 🗣️ **Text-to-speech + voice cloning.** A free local voice on the desktop, or any voice from a few seconds of a recording. Phones are getting their own system voice.
-- 🧍 **Background removal.** People, objects, or paint the mask yourself.
-- 🎞️ **Keyframes.** Position, scale, rotation, opacity, volume, effect parameters. Curve editor built in.
-- ✨ **100 effects, filters and transitions.** Live in the preview.
-- ✂️ **Cut fast.** Split, trim, ripple, merge, freeze frame, speed. Magnetic timeline if you want it.
-- 🎚️ **Multi-track, multi-timeline.** Overlays and picture-in-picture: stack video, stills and titles on as many tracks as you like. Several cuts in one project. Blend modes (screen, add, multiply…), crop, flips.
-- 📝 **Titles.** Fonts, stroke, shadow, background plate. Presets to start from.
-- 🎙️ **One-switch voice cleanup.** Denoise, enhance voice, level the loudness. Plus chipmunk, robot, telephone and friends.
-- 📤 **Export.** H.264, HEVC, AV1. Up to 4K 60, 10-bit colour.
-- ⚡ **Fast.** Proxies built in, so 4K scrubs smoothly.
-- 🤖 **Scriptable.** An MCP server built in, so Claude and other AI agents can edit with it ([one line to set up](docs/MCP.md)), and a JSON-RPC API for scripts. A build from source adds gRPC and a command-line tool.
-- 🖥️ **macOS, Windows, Linux, Android.** 26 languages. Same app, same project files.
+Você precisa do Rust 1.93 ou mais recente (veja rust-version em src/Cargo.toml), das bibliotecas de desenvolvimento do FFmpeg 7+, do cmake e de um compilador C++.
 
-## Download
+macOS: brew install ffmpeg
+Windows: nos downloads do FFmpeg para Windows, pegue a build win64-gpl-shared do BtbN (a mesma que o CI usa), descompacte e aponte FFMPEG_DIR para ela
+Linux: use o FFmpeg da sua distribuição se for versão 7 ou superior; caso contrário, use uma build shared do BtbN com FFMPEG_DIR, como no Windows
 
-Two ways in:
+Depois:
 
-1. **[The website](https://concat.standalones.org/#download)** hands you the right build for your machine. Start here.
-2. **[GitHub Releases](https://github.com/jub0t/Concat/releases)** has every build for every platform, with installers, packages and checksums. For when you want to pick.
-
-Concat is in **beta**: it works, and it still has edges. [Say so](https://github.com/jub0t/Concat/issues) when you find one.
-
-**Platforms**
-
-- ✅ **Windows** · x86_64 (ARM builds are paused, see [#326](https://github.com/jub0t/Concat/issues/326)). A setup and an `.msi`. If SmartScreen stops an unsigned build: **More info** › **Run anyway**
-- ✅ **macOS** · Intel and Apple silicon. If macOS refuses to open an unsigned build: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Linux** · x86_64 and ARM. `.deb`, `.rpm`, `.AppImage` and an Arch package. Also a Flatpak on **[Flatpark](https://flatpark.org/apps/app.concat.editor/)**, a community Flatpak remote that wraps the x86_64 `.deb` of each release and updates with it
-- ✅ **Android** · phones and tablets
-- ✅ **iOS / iPadOS** · iPhone and iPad, sideloaded
-
-✅ Supported · 🚧 Work in progress · 🧪 To be tested
-
-**System requirements** and the optional model sizes are on [the website](https://concat.standalones.org/guides/system-requirements).
-
-**[Code signing policy](CODE_SIGNING.md)**: why the Windows builds are not signed yet, and what Concat sends over the network (nothing you did not ask for).
-
-## Build from source
-
-You need Rust 1.93 or newer (see `rust-version` in `src/Cargo.toml`), the FFmpeg 7+ development libraries, cmake and a C++ compiler.
-
-- **macOS:** `brew install ffmpeg`
-- **Windows:** from [FFmpeg's Windows downloads](https://ffmpeg.org/download.html#build-windows), take BtbN's `win64-gpl-shared` build (the one CI uses), unpack it and point `FFMPEG_DIR` at it
-- **Linux:** use your distro's FFmpeg if it is version 7 or newer, otherwise use a BtbN `shared` build with `FFMPEG_DIR` like on Windows
-
-Then:
-
-```sh
+sh
 cd src
-cargo run -p concat          # the editor window
-```
+cargo run -p concat          # a janela do editor
 
-Other useful commands:
+Outros comandos úteis:
 
-```sh
-cargo build --profile app -p concat   # the shipping binary (fat LTO, stripped)
-cargo test                            # run the test suite
-cargo fmt --check && cargo clippy --all-targets -- -D warnings   # what CI checks
-```
+sh
+cargo build --profile app -p concat   # o binário de distribuição (fat LTO, stripped)
+cargo test                            # executa a suíte de testes
+cargo fmt --check && cargo clippy --all-targets -- -D warnings   # o que o CI verifica
 
-If you change text the interface shows, run `python3 scripts/locales.py` from the repo root so the string inventory stays in sync. Full details live in [CONTRIBUTING.md](CONTRIBUTING.md).
+Se você alterar texto exibido pela interface, rode python3 scripts/locales.py a partir da raiz do repositório para manter o inventário de strings sincronizado. Todos os detalhes estão em CONTRIBUTING.md.
 
-## How to Contribute
+Como Contribuir
 
-> [!IMPORTANT]
-> The best way to contribute is to grab a build from the [Releases](https://github.com/jub0t/Concat/releases) page and use it: find where it breaks, and say where it could be better.
->
-> Ready to write code? [CONTRIBUTING.md](./CONTRIBUTING.md) covers setup, the layout of the tree, the checks to run, and how contributions are licensed. Driving Concat from a script, a service or an agent? [The developer docs](https://concat.standalones.org/docs) cover the Concat API and its transports: JSON-RPC and gRPC; [docs/MCP.md](docs/MCP.md) connects an AI agent over MCP. [This Discussion](https://github.com/jub0t/Concat/discussions/3) is where the project was announced.
-> 
-> Contributors can claim a `@Contributor` role in the Discord server: just ask.
+[!IMPORTANT] A melhor forma de contribuir é pegar uma build na página de Releases e usá-la: descubra onde ela quebra e diga onde poderia ser melhor.
 
-## Star History
+Pronto para escrever código? O CONTRIBUTING.md cobre a configuração, a estrutura da árvore de arquivos, as verificações a executar e como as contribuições são licenciadas. Vai controlar o Concat a partir de um script, um serviço ou um agente? A documentação para desenvolvedores cobre a API do Concat e seus transportes: JSON-RPC e gRPC; o docs/MCP.md conecta um agente de IA via MCP. Esta Discussion é onde o projeto foi anunciado.
 
-<a href="https://www.star-history.com/?repos=jub0t%2Fconcat&type=date&releases=&legend=bottom-right">
- <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=jub0t/concat&type=date&legend=bottom-right" />
-</a>
+Contribuidores podem solicitar o cargo @Contributor no servidor do Discord: é só pedir.
 
-## Contributors
+Histórico de Estrelas
+<a href="https://www.star-history.com/?repos=jub0t%2Fconcat&type=date&releases=&legend=bottom-right"> <img alt="Gráfico de histórico de estrelas" src="https://api.star-history.com/chart?repos=jub0t/concat&type=date&legend=bottom-right" /> </a>
+Contribuidores
+<a href="https://github.com/jub0t/Concat/graphs/contributors"> <img alt="Contribuidores" src="https://contrib.rocks/image?repo=jub0t/concat"> </a>
+Licença
 
-<a href="https://github.com/jub0t/Concat/graphs/contributors">
-  <img alt="Contributors" src="https://contrib.rocks/image?repo=jub0t/concat">
-</a>
+O Concat é software livre sob a licença AGPL-3.0-or-later. Uma licença comercial está disponível para uso em código fechado; veja LICENSING.md.
 
-## Licence
+DMCA
 
-Concat is free software under [AGPL-3.0-or-later](LICENSE). A commercial licence is available for closed-source use; see [LICENSING.md](LICENSING.md).
+Se você acredita que algo neste repositório, em seus releases, ou em um pacote ou modelo que ele distribui viola seus direitos autorais, envie um e-mail para jub0trd@gmail.com com a descrição da obra de sua propriedade, um link para onde o material infrator aparece aqui, seus dados de contato, uma declaração de que você acredita de boa-fé que o uso não é autorizado por você, seu agente ou pela lei, e uma declaração, sob pena de perjúrio, de que a notificação é precisa e de que você é o titular ou está autorizado a agir em nome do titular, assinada com sua assinatura física ou eletrônica; notificações válidas são atendidas prontamente, e quem tiver material removido pode enviar uma contranotificação para o mesmo endereço.
 
-## DMCA
-
-If you believe something in this repository, its releases, or a package or model it distributes infringes your copyright, email [jub0trd@gmail.com](mailto:jub0trd@gmail.com) with a description of the work you own, a link to where the infringing material appears here, your contact details, a statement that you believe in good faith the use is not authorised by you, your agent, or the law, and a statement, under penalty of perjury, that the notice is accurate and that you are the owner or authorised to act for the owner, signed with your physical or electronic signature; valid notices are acted on promptly, and anyone whose material is removed may send a counter-notice to the same address.
+Créditos da Tradução
+Projeto e README originais: jub0t e colaboradores do Concat — https://github.com/jub0t/Concat
+Licença: AGPL-3.0-or-later
+Esta tradução: não oficial, feita para facilitar o acesso de falantes de português. Para a versão mantida pelo projeto, consulte o README.pt-BR.md oficial.
