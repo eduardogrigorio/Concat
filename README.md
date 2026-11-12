@@ -84,10 +84,16 @@ Pronto para escrever código? O CONTRIBUTING.md cobre a configuração, a estrut
 
 Contribuidores podem solicitar o cargo @Contributor no servidor do Discord: é só pedir.
 
+
 Histórico de Estrelas
 <a href="https://www.star-history.com/?repos=jub0t%2Fconcat&type=date&releases=&legend=bottom-right"> <img alt="Gráfico de histórico de estrelas" src="https://api.star-history.com/chart?repos=jub0t/concat&type=date&legend=bottom-right" /> </a>
+
+
 Contribuidores
 <a href="https://github.com/jub0t/Concat/graphs/contributors"> <img alt="Contribuidores" src="https://contrib.rocks/image?repo=jub0t/concat"> </a>
+
+
+
 Licença
 
 O Concat é software livre sob a licença AGPL-3.0-or-later. Uma licença comercial está disponível para uso em código fechado; veja LICENSING.md.
@@ -95,6 +101,9 @@ O Concat é software livre sob a licença AGPL-3.0-or-later. Uma licença comerc
 DMCA
 
 Se você acredita que algo neste repositório, em seus releases, ou em um pacote ou modelo que ele distribui viola seus direitos autorais, envie um e-mail para jub0trd@gmail.com com a descrição da obra de sua propriedade, um link para onde o material infrator aparece aqui, seus dados de contato, uma declaração de que você acredita de boa-fé que o uso não é autorizado por você, seu agente ou pela lei, e uma declaração, sob pena de perjúrio, de que a notificação é precisa e de que você é o titular ou está autorizado a agir em nome do titular, assinada com sua assinatura física ou eletrônica; notificações válidas são atendidas prontamente, e quem tiver material removido pode enviar uma contranotificação para o mesmo endereço.
+
+
+
 
 Créditos da Tradução
 Projeto e README originais: jub0t e colaboradores do Concat — https://github.com/jub0t/Concat
